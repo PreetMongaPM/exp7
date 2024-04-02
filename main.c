@@ -3,7 +3,7 @@ int main()
 {
     int a;
     int b;
-    int sum = 100;
+    int sum = 0;
     int mul, sub, remainder;
     float divide;
     printf ("Enter the value of a");
