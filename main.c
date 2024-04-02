@@ -10,8 +10,8 @@ int main()
     scanf ("%d",&a);
     printf ("Enter the value of b");
     scanf ("%d",&b);
-    sum = a+b;
-    sub = a-b;
+    sum = a-b;
+    sub = a+b;
     mul = a*b;
     divide = a/b;
     remainder = a%b;
